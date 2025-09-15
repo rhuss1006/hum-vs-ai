@@ -1,2 +1,2 @@
-# Human Vs. AI - A test on Claude's speed, performance, and potential biases
+# hum-vs-ai
 Personal Project #1
