@@ -1,9 +1,8 @@
 """
-Assignment: HW3 Human vs. AI
-File: human.py
+Human vs. AI
+human.py - human generated dashboard
 Name: Rayd Hussain
 
-DS3500
 5/23/2025
 """
 
